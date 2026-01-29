@@ -1,1 +1,2 @@
-alert("I'm JavaScript!");
+alert('Hello');
+alert('World');
